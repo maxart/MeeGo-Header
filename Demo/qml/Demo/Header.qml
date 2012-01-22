@@ -59,7 +59,6 @@ Rectangle {
   ToolIcon {
     id: filterImage
     anchors.right: parent.right
-    anchors.rightMargin: 8
     anchors.verticalCenter: parent.verticalCenter
     platformIconId: "icon-m-textinput-combobox-arrow"
   }
